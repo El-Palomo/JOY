@@ -95,7 +95,7 @@ Host script results:
 |_  start_date: N/A
 ```
 
-<
+<img src="https://github.com/El-Palomo/JOY/blob/main/joy1.jpg" widht=80% />
 
 
 
